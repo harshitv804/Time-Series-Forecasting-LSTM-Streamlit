@@ -13,7 +13,7 @@ from datetime import timedelta
 import gc
 import plotly.figure_factory as ff
 
-st.set_page_config(layout="wide",page_title="Multi-Step Time Series Forecasting LSTM", page_icon="https://github.com/harshitv804/Time-Series-Forecasting-LSTM-Streamlit/assets/100853494/0d39dccf-42c7-4062-8000-3dc5646a0445")
+st.set_page_config(layout="wide",page_title="Multi-Step Time Series Forecasting LSTM", page_icon="https://github.com/harshitv804/Time-Series-Forecasting-LSTM-Streamlit/assets/100853494/1f137778-ef9c-45e1-87dd-a3ca6bd79b46")
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 col3, col4 = st.columns([1,5])
 col1, col2 = st.columns([3,2])
@@ -166,7 +166,7 @@ def sea_decomp(date_f,input_f,output_f):
         return sea_decomp_data
 
 with col3:
-    st.image("https://github.com/harshitv804/Time-Series-Forecasting-LSTM-Streamlit/assets/100853494/0d39dccf-42c7-4062-8000-3dc5646a0445")
+    st.image("https://github.com/harshitv804/Time-Series-Forecasting-LSTM-Streamlit/assets/100853494/1f137778-ef9c-45e1-87dd-a3ca6bd79b46")
 
 with col4:
     st.title("Multi-Step Time Series Forecasting LSTM")
