@@ -10,7 +10,7 @@ Discover a streamlined Streamlit-based solution for time series forecasting with
 - ✅ Multivariate Multi-Step Forecasting
   
 ## Supported Models
-- ✅ LSTM
+- ✅ LSTM (Based on Pytorch, Supports both GPU & CPU)
 
 ## Pre-built Features
 - 🛠️ Data Pre-Processing:
