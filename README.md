@@ -35,3 +35,6 @@ Discover a streamlined Streamlit-based solution for time series forecasting with
 - Custom LSTM and Dense Layers
 - ⏱️ No. of Epochs
 - 📦 Batch Size
+
+## Contact
+If you have any questions or feedback, please raise an [github issue](https://github.com/harshitv804/LawGPT/issues).
