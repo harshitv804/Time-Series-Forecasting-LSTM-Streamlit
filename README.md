@@ -1,4 +1,7 @@
 # Time Series Forecasting LSTM Streamlit
+<p align="center">
+<img src="https://github.com/user-attachments/assets/e722059e-02e6-441e-8bbc-69c79bbddcd3" width="200"/>
+</p>
 
 https://github.com/harshitv804/Time-Series-Forecasting-LSTM-Streamlit/assets/100853494/3ca10b70-89a9-4f9d-b367-2db64352db33
 
